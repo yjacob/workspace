@@ -1,0 +1,5 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jacob at TripHi dot co//Hosting Calendar 0.0.1//ZH
+
+END:VCALENDAR
